@@ -25,3 +25,8 @@ nasabah harus salah satu antara Individu atau Perusahaan sehingga class Nasabah 
 - sqlite-jdbc-3.34.0.jar
 - mysql-connector-java-8.2.05.jar
 - JDK 1.8
+
+### Tools yang digunakan
+- Netbeans IDE 8.2
+- Scene Builder
+- Sqlite Studio
