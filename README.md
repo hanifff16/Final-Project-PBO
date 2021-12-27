@@ -1,4 +1,5 @@
-# Final Project PBO Kelompok1
+# Final Project PBO Kelompok 1 
+# Kelas A
 
 ### Nama Anggota Dan NPM
 * Muhammad Hanif 2017051004
