@@ -20,3 +20,8 @@ Setelah berjalannya waktu, kopereasi tumbuh menjadi besar, sehingga nasabah kope
 ![ClassDiagram](https://user-images.githubusercontent.com/83523392/147461347-33a10728-6f44-4386-bef7-4ab9ea15ec2e.png)
 ## Penjelasan Class Diagram
 nasabah harus salah satu antara Individu atau Perusahaan sehingga class Nasabah harus dibuat abstrak agar tidak bisa diinstansiasi. Semua subclass dari kelas Nasabah harus menimplementasikan method print() yang berbeda dengan subclass lainnya, sehingga method print() ini harus dibuat abstract di class Nasabah.
+
+### Library yang digunakan
+- sqlite-jdbc-3.34.0.jar
+- mysql-connector-java-8.2.05.jar
+- JDK 1.8
